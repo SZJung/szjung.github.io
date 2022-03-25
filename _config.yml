@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Soozy Jung"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/pic1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hello :)"
   location         : "Seoul, Korea"
   email            :
