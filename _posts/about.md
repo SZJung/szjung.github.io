@@ -1,9 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-# toc: true
-# toc_sticky: true
-# toc_label:
 ---
 
 안녕하세요 딥러닝과 컴퓨터 비전 분야에서 일하고 있는 회사원 입니다.
