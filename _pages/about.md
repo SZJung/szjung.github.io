@@ -4,6 +4,7 @@ title: "About"
 toc: true
 toc_sticky: true
 layout: single
+author_profile: true
 ---
 
 ## Welcome to Soozy's Blog
