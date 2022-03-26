@@ -6,6 +6,8 @@ toc_sticky: true
 layout: single
 ---
 
+## Welcome to Soozy's Blog
+
 안녕하세요 딥러닝과 컴퓨터 비전 분야에서 일하고 있는 회사원 입니다.
 
 프로젝트 및 공부하면서 배운 내용들을 정리하고자 시작한 블로그 입니다.
