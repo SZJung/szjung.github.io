@@ -10,12 +10,16 @@ layout: single
 author_profile: true
 ---
 
+<br>
+Google Cloud AI 가 2020 ICLR 에서 발표한 정형 데이터를 위한 딥러닝 네트워크에 관한 논문이다. 
+논문 주소 : [https://arxiv.org/abs/1908.07442](https://arxiv.org/abs/1908.07442#)
+{: .notice--primary}
+<br> <br>
+
+
 ## Introduction
 ---
 
-Google Cloud AI 가 2020 ICLR 에서 발표한 정형 데이터를 위한 딥러닝 네트워크에 관한 논문이다. 
-
-논문 주소 : [https://arxiv.org/abs/1908.07442](https://arxiv.org/abs/1908.07442#) <br> <br>
 
 &nbsp;&nbsp;&nbsp; Tabular data 에서는 딥러닝 보다 tree 기반 앙상블 모델이 성능이 더 우수하다고 한다. 앙상블 모델은 1) tabular data 에 효율적임 2) Highly-interpretable 3) 학습이 빠른 장점이 있는 반면, 딥러닝은 over-parameterized 되어 tabular data 에 적합하지 않다. <br>
 
