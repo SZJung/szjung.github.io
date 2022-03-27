@@ -6,6 +6,8 @@ category: Paper-review
 toc: true
 toc_sticky: true
 toc_label: "Tabnet review"
+layout: single
+author_profile: true
 ---
 
 Google Cloud AI 가 2020 ICLR 에서 발표한 정형 데이터를 위한 딥러닝 네트워크에 관한 논문이다. 
